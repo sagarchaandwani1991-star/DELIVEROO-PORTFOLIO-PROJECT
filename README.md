@@ -68,25 +68,30 @@ To enable high-performance filtering and accurate slice-and-dice analysis, I des
 A high-level health check of the business designed for the C-Suite.
 1.Executuve_OverView.png)
 *   **Revenue Volatility:** The "Revenue Trend by Month" chart shows significant volatility with sharp dips in February and September.
+   
 *   **Market Concentration:** Leeds and London combined account for **~60% of Total Revenue**, making them "Must-Win" battlegrounds.
+   
 *   **Premium Positioning:** The Average Order Value (AOV) of **£47.39** is high. The "AOV by Cuisine" visual proves that niche categories like **Vegan (£48)** and **Indian (£47)** are driving this premium spend.
 
 ### 2. Operations & Logistics
 Diagnosing the root cause of the 47.9% Late Delivery Rate.
 ![Operations Dashboard](Screenshots/2_Operations_Logistics.png)
 *   **Speed Analysis:** The **"Avg Delivery Time by Hour"** chart reveals bottlenecks during peak lunch (12 PM) and dinner (7 PM) rushes.
+  
 *   **Driver Performance:** A clear correlation exists between low driver ratings and late deliveries.
 
 ### 3. Customer Insights (CRM)
 Analyzing the "Leaky Bucket" retention problem.
 ![Customer Dashboard](Screenshots/3_Customer_Insights.png)
 *   **Churn Segmentation:** The Donut chart exposes the massive **59.4% Churned** segment versus only **26.6% Active**.
+  
 *   **Value Matrix (Scatter Plot):** Identifies specific "Whale" customers (Top Right quadrant) who order frequently and spend heavily. These are the VIPs to protect.
 
 ### 4. Partner & Restaurant Performance
 Identifying the most valuable B2B partnerships.
 ![Partner Dashboard](Screenshots/4_Partner_Performance.png)
 *   **Revenue Drivers:** **Turtle Bay** generates nearly double the revenue of other top partners.
+  
 *   **Operational Drag:** **Asian** and **Burger** cuisines have high volumes but suffer from slower prep/delivery times compared to Sushi.
 
 ---
@@ -147,5 +152,3 @@ SQL was used to validate the integrity of the dataset before import, ensuring no
 
 
 
-l to plot exact delivery routes and identify traffic hotspots.
-Basket Analysis: Analyze which items are frequently bought together to optimize menu recommendations.
