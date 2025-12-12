@@ -66,7 +66,7 @@ To enable high-performance filtering and accurate slice-and-dice analysis, I des
 
 ### 1. Executive Overview
 A high-level health check of the business designed for the C-Suite.
-1.Executuve_OverView.png)
+! [Executuve OverView Dashboard](Screenshots/1.Executuve_OverView.png)
 *   **Revenue Volatility:** The "Revenue Trend by Month" chart shows significant volatility with sharp dips in February and September.
    
 *   **Market Concentration:** Leeds and London combined account for **~60% of Total Revenue**, making them "Must-Win" battlegrounds.
