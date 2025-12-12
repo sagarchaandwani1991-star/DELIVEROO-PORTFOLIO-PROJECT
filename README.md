@@ -82,7 +82,7 @@ Diagnosing the root cause of the 47.9% Late Delivery Rate.
 
 ### 3. Customer Insights (CRM)
 Analyzing the "Leaky Bucket" retention problem.
-![Customer Dashboard](Screenshots/3_Customer_Insights.png)
+![Customer Dashboard](Screenshots/3.Customer_Insights_CRM.png)
 *   **Churn Segmentation:** The Donut chart exposes the massive **59.4% Churned** segment versus only **26.6% Active**.
   
 *   **Value Matrix (Scatter Plot):** Identifies specific "Whale" customers (Top Right quadrant) who order frequently and spend heavily. These are the VIPs to protect.
