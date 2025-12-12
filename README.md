@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
 ## 📖 Client Background & Context
-**Role:** Strategic Performance Analyst (Simulation) | **Industry:** Food Delivery & Logistics
 
 Deliveroo is a British online food delivery company that operates a hyper-local three-sided marketplace, connecting consumers, restaurants, and riders. It is one of the dominant players in the UK "Gig Economy," processing millions of orders via its app-based platform. The business model relies on speed, logistics optimization, and high-frequency customer retention.
 
@@ -26,9 +25,9 @@ The leadership team has flagged two critical threats to profitability:
 3. [Data Structure (Star Schema)](#-data-structure--modelling)
 4. [Dashboard Deep Dive](#-dashboard-deep-dive)
 5. [Strategic Recommendations](#-strategic-recommendations)
-6. [Technical Implementation](#-technical-implementation--expertise)
-7. [Data Dictionary](#-data-dictionary)
-8. [Assumptions & Future Scope](#-assumptions--future-scope)
+6. [Assumptions & Future Scope](#-assumptions--future-scope)
+7. [Technical Implementation](#-technical-implementation--expertise)
+8. [Data Dictionary](#-data-dictionary)
 
 ---
 
