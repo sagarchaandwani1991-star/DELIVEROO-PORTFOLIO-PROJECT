@@ -76,7 +76,7 @@ A high-level health check of the business designed for the C-Suite.
 
 ### 2. Operations & Logistics
 Diagnosing the root cause of the 47.9% Late Delivery Rate.
-![Operations Dashboard](Screenshots/2_Operations_Logistics.png)
+![Operations Dashboard](Screenshots/2.Operation%20And%20Logistics.png)
 *   **Speed Analysis:** The **"Avg Delivery Time by Hour"** chart reveals bottlenecks during peak lunch (12 PM) and dinner (7 PM) rushes.
 
 *   **Driver Performance:** A clear correlation exists between low driver ratings and late deliveries.
