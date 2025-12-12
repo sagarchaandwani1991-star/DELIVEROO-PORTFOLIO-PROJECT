@@ -66,12 +66,13 @@ To enable high-performance filtering and accurate slice-and-dice analysis, I des
 
 ### 1. Executive Overview
 A high-level health check of the business designed for the C-Suite.
-! [Executuve OverView Dashboard](Screenshots/1.Executuve_OverView.png)
+![Executive Dashboard](Screenshots/1_Executive_Overview.png)
 *   **Revenue Volatility:** The "Revenue Trend by Month" chart shows significant volatility with sharp dips in February and September.
-   
+
 *   **Market Concentration:** Leeds and London combined account for **~60% of Total Revenue**, making them "Must-Win" battlegrounds.
-   
+
 *   **Premium Positioning:** The Average Order Value (AOV) of **£47.39** is high. The "AOV by Cuisine" visual proves that niche categories like **Vegan (£48)** and **Indian (£47)** are driving this premium spend.
+
 
 ### 2. Operations & Logistics
 Diagnosing the root cause of the 47.9% Late Delivery Rate.
