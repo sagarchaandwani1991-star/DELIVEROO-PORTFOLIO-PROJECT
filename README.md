@@ -89,7 +89,7 @@ Analyzing the "Leaky Bucket" retention problem.
 
 ### 4. Partner & Restaurant Performance
 Identifying the most valuable B2B partnerships.
-![Partner Dashboard](Screenshots/4_Partner_Performance.png)
+![Partner Dashboard](Screenshots/4.Partner_&_Restaurant_Performance.png)
 *   **Revenue Drivers:** **Turtle Bay** generates nearly double the revenue of other top partners.
   
 *   **Operational Drag:** **Asian** and **Burger** cuisines have high volumes but suffer from slower prep/delivery times compared to Sushi.
